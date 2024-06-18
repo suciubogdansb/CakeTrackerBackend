@@ -36,8 +36,9 @@ I generally run the application through the PyCharm IDE, but it can run through 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/datavid-members.git
-   cd DatavidApp
+   https://github.com/suciubogdansb/CakeTrackerBackend.git
+   cd CakeTrackerBackend
+   ```
 
 2. **Activate the virtual environment and install packages**:
 
@@ -45,6 +46,7 @@ I generally run the application through the PyCharm IDE, but it can run through 
     python -m venv .venv
     source .venv/bin/activate
     pip install -r ./requirements.txt
+   ```
 
 3. **Run the application**:
 
