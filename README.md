@@ -36,7 +36,7 @@ I generally run the application through the PyCharm IDE, but it can run through 
 1. **Clone the repository**:
 
    ```bash
-   https://github.com/suciubogdansb/CakeTrackerBackend.git
+   git clone https://github.com/suciubogdansb/CakeTrackerBackend.git
    cd CakeTrackerBackend
    ```
 
