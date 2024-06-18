@@ -1,6 +1,4 @@
-# Datavid Cake Tracker Backend
-
-This application was created as part of the application process for Datavid Summer Intern position.
+# Cake Tracker Backend
 
 This represents the backend of the Cake Tracker, an application focused on storing employee information and display keeping track of everyone's birthday.
 
